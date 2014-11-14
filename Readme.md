@@ -1,8 +1,8 @@
-[![Build Status](https://circleci.com/gh/segmentio/integration-commandiq.png)](https://circleci.com/gh/segmentio/integration-commandiq)
+[![Build Status](https://circleci.com/gh/segmentio/integration-commandiq/tree/master.png?style=badge)](https://circleci.com/gh/segmentio/integration-commandiq/tree/master)
 
-# CommandIQ server-side integration.
+# integration-commandiq
 
-Write me...
+CommandIQ server-side integration for Segment.
 
 
 ## License
