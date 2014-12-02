@@ -23,8 +23,7 @@ describe('CommandIQ', function(){
       .name('CommandIQ')
       .endpoint('http://api.commandiq.com')
       .channels(['server', 'mobile', 'client'])
-      .ensure('settings.apiKey')
-      .retries(2);
+      .ensure('settings.apiKey');
   });
 
   describe('.validate()', function(){
